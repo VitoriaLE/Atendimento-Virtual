@@ -23,7 +23,7 @@ Este projeto implementa uma **estrutura de dados do tipo Fila** em **C**, seguin
 1. Compilar arquivos
 - gcc -o programa fila.c vitoria_luz_edwards.c -fila
 2. Execute o programa: 
--./fila
+- ./fila
 
 ## 📖 **Como Usar**
 O projeto implementa uma fila com as seguintes operações principais:
