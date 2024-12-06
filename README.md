@@ -28,11 +28,11 @@ Este projeto implementa uma **estrutura de dados do tipo Fila** em **C**, seguin
 ## 📖 **Como Usar**
 O projeto implementa uma fila com as seguintes operações principais:
 
-- // Criar uma nova fila Fila* criar_fila(); ```
-```c // Inserir elemento no final da fila void insirir_final(Fila* f, int idade );
+- Fila* criar_fila() // Criar uma nova 
+- void insirir_final(Fila* f, int idade); // Inserir elemento no final da fila 
 - void ordenar(Fila* f); // Ordena a fila do decrescente (maior para menor) 
--  Remover elemento da fila ate que fique vazia void retira_inicio(Fila*f); 
-- void liberar_memoria(Fila* f)c // Liberar memória da fila ;
+- void retira_inicio(Fila*f); //Remover elemento da fila ate que fique vazia  
+- void liberar_memoria(Fila* f) // Liberar memória da fila ;
 
 ## ✍️ **Autores**
 Vitória Luz Edwards - @VitoriaLE
