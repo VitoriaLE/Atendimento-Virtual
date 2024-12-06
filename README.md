@@ -1,4 +1,4 @@
-📋 Sobre o Projeto
+##📋 Sobre o Projeto##
 Este projeto implementa uma estrutura de dados do tipo Fila em C. A implementação inclui as operações básicas de uma fila, seguindo o princípio FIFO (First In, First Out).
 
 🚀 Funcionalidades
