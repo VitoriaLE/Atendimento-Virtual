@@ -39,6 +39,6 @@ Vitória Luz Edwards - @VitoriaLE
 
 ## 📫 **Contato**
 Para dúvidas ou sugestões, entre em contato:
-Email: vitoria.edwards@icomp.ufam.be
-LinkedIn: linkedin.com/in/vitoria-luz-edwards
+- Email: vitoria.edwards@icomp.ufam.be
+- LinkedIn: linkedin.com/in/vitoria-luz-edwards
 
