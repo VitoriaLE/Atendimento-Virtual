@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 ## 📚 **Sobre o Projeto**
+=======
+##📋 Sobre o Projeto##
+Este projeto implementa uma estrutura de dados do tipo Fila em C. A implementação inclui as operações básicas de uma fila, seguindo o princípio FIFO (First In, First Out).
+>>>>>>> c6952ca20de272fffa7b4d7e4542a888b7956006
 
 Este projeto implementa uma **estrutura de dados do tipo Fila** em **C**, seguindo o princípio **FIFO** (First In, First Out). A implementação inclui as operações básicas de uma fila, como **inserção**, **remoção**, **impressão**, **ordenação** e **liberação de memória**.
 
