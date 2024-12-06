@@ -1,5 +1,3 @@
-🎯 Implementação de Fila em C
-GitHub stars GitHub forks GitHub license
 📋 Sobre o Projeto
 Este projeto implementa uma estrutura de dados do tipo Fila em C. A implementação inclui as operações básicas de uma fila, seguindo o princípio FIFO (First In, First Out).
 
@@ -22,11 +20,12 @@ Alocação Dinâmica de Memória
 
 ⚙️ Compilar e Executar
 1. Clone o repositório:
-
 git clone https://github.com/username/fila-c.git
 cd fila-c
+
 2. Compile os arquivos:
 gcc -o programa fila.c vitoria_luz_edwards.c -fila
+
 3. Execute o programa:
 ./fila
 
