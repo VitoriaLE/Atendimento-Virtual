@@ -1,5 +1,5 @@
 # 📚 **Sobre o Projeto**
-Este trabalho tem como objetivo realizar um atendimento virtual, no qual o método de atendimento é baseado em prioridades, atendendo primeiro os mais idosos e, em seguida, os mais jovens. Ele implementa uma **estrutura de dados do tipo Fila** em **C**, seguindo o princípio **FIFO** (First In, First Out). A implementação inclui as operações básicas de uma fila, como **inserção**, **remoção**, **impressão**, **ordenação** e **liberação de memória**.
+Este projeto tem como objetivo realizar um atendimento virtual, no qual o método de atendimento é baseado em prioridades, atendendo primeiro os mais idosos e, em seguida, os mais jovens. Ele implementa uma **estrutura de dados do tipo Fila** em **C**, seguindo o princípio **FIFO** (First In, First Out). A implementação inclui as operações básicas de uma fila, como **inserção**, **remoção**, **impressão**, **ordenação** e **liberação de memória**.
 
 ## 🚀 **Funcionalidades**
 
